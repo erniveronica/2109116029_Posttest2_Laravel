@@ -53,6 +53,8 @@ Pada saat user membuka website Es Teh Solo akan muncul tampilan awal yaitu selam
 
 ##### BAGIAN ADMIN
 
+untuk mengakses bagian admin dapat menggunakan \admin
+
 Pada saat admin membuka website Es Teh Solo akan muncul tampilan awal yaitu selamat datang (beranda) yang dilengkapi dengan 4 navbar yaitu:
 
 **1. Beranda**
