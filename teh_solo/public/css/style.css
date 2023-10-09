@@ -1,0 +1,85 @@
+/* font-family: 'Concert One', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Frijole', cursive;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:wght@300&family=Cedarville+Cursive&family=Comfortaa&family=Concert+One&family=Dancing+Script:wght@700&family=Dongle:wght@300&family=Frijole&family=Gloria+Hallelujah&family=Mansalva&family=Pacifico&family=Patrick+Hand&family=Rampart+One&family=Tilt+Neon&display=swap');
+
+.logo{
+    font-family: 'Dancing Script', cursive;
+}
+
+/* Navbar */
+.nvbr{
+    font-size: 20px;
+}
+
+/* home */
+.carousel-inner img {
+    display: block;
+    margin: auto;
+}
+
+.carousel-indicators button {
+    filter: invert(100%);
+  }
+
+.carousel-indicators button.active {
+    background-color: rgb(198, 253, 254);
+  }
+
+.welcome{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.rapi{
+    text-align: justify;
+}
+
+.custom{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+/* About */
+.circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto; /* Untuk memusatkan gambar */
+    background-color: bisque;
+}
+
+.circle img {
+width: 100%;
+height: 100%;
+object-fit: cover; /* Agar gambar memenuhi lingkaran */
+}
+
+/* Footer */
+.custom-instagram-icon {
+    color: #df4d96;
+}
+
+.custom-youtube-icon {
+    color: #FF0000;
+}
+
+.custom{
+    font-family: 'Frijole', cursive;
+}
+
+.ctm{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+/* .nvbr{
+    /* font-family: 'Tilt Neon', cursive; */
+    /* font-family: 'Averia Sans Libre', cursive; */
+    /* font-family: 'Rampart One', cursive; */
+    /* font-family: 'Patrick Hand', cursive; */
+    /* font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    color: black;
+} */
